@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySnackbar</string> <!-- or your app name -->
+    <string name="show_snackbar">Show Snackbar</string> <!-- Ensure the name matches -->
+</resources>
